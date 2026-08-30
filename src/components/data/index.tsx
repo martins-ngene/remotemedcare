@@ -279,44 +279,7 @@ export const pharmacies = [
 ]
 
 // List of Available Professionals
-export const professionals = [
-  {
-    image: Mirabel,
-    name: 'Dr. Omobude Osato Mirabel',
-    email: 'mirabelomobude@gmail.com',
-    phone_number: '08101487066',
-  },
-  {
-    image: Blessing,
-    name: 'Dr. Oguma Eseopheroghene Blessing',
-    email: 'boguma@gmail.com',
-    phone_number: '09019896993',
-  },
-  {
-    image: Ben,
-    name: 'Dr. Bassey Benjamin Okon',
-    email: 'benjaminbassey65@gmail.com',
-    phone_number: '08033666816',
-  },
-  {
-    image: Charles,
-    name: 'RPh. Onoriode Charles Onajiyovwi',
-    email: 'charlesmicheals@gmail.com',
-    phone_number: '08036491102',
-  },
-  {
-    image: Lucky,
-    name: 'RPh. Lucky Idemudiah Akahomhen',
-    email: 'luckyakahomhen@gmail.com',
-    phone_number: '08161566561',
-  },
-  {
-    image: Nelson,
-    name: 'Nrs. Atekha Nelson Nosakhare Osarobor',
-    email: 'atekhanelson@gmail.com',
-    phone_number: '08160798916',
-  },
-]
+export const professionals = []
 
 export const navigation = [
   { name: 'Home', href: '/' },
